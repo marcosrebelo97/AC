@@ -1,0 +1,2800 @@
+Tamanho da matriz: 10
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.4064e-05
+Tempo distribuido: 0.0277948
+Tempo sequencial: 5.84799e-06
+Tempo distribuido: 0.0242202
+Tempo sequencial: 4.83701e-06
+Tempo distribuido: 0.0338087
+Tempo sequencial: 5.314e-06
+Tempo distribuido: 0.0155535
+Tempo sequencial: 4.345e-06
+Tempo distribuido: 0.00660407
+Tempo sequencial: 4.342e-06
+Tempo distribuido: 0.00590315
+Tempo sequencial: 4.396e-06
+Tempo distribuido: 0.00586498
+Tempo sequencial: 5.182e-06
+Tempo distribuido: 0.0115887
+Tempo sequencial: 4.34699e-06
+Tempo distribuido: 0.00739623
+Tempo sequencial: 4.37599e-06
+Tempo distribuido: 0.0139491
+
+Media Tempo sequencial: 5.7051e-06
+
+Media Tempo distribuido: 0.0152683
+
+Tamanho da matriz: 20
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.6621e-05
+Tempo distribuido: 0.0227122
+Tempo sequencial: 3.7368e-05
+Tempo distribuido: 0.0251273
+Tempo sequencial: 3.4629e-05
+Tempo distribuido: 0.0117793
+Tempo sequencial: 3.6731e-05
+Tempo distribuido: 0.0286054
+Tempo sequencial: 3.6991e-05
+Tempo distribuido: 0.00791208
+Tempo sequencial: 3.211e-05
+Tempo distribuido: 0.00685622
+Tempo sequencial: 5.8959e-05
+Tempo distribuido: 0.0129044
+Tempo sequencial: 3.3913e-05
+Tempo distribuido: 0.000700613
+Tempo sequencial: 3.7988e-05
+Tempo distribuido: 0.00576213
+Tempo sequencial: 3.2152e-05
+Tempo distribuido: 0.00103218
+
+Media Tempo sequencial: 3.77462e-05
+
+Media Tempo distribuido: 0.0123392
+
+Tamanho da matriz: 30
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 7.5741e-05
+Tempo distribuido: 0.0207957
+Tempo sequencial: 0.000116228
+Tempo distribuido: 0.0156492
+Tempo sequencial: 0.000131356
+Tempo distribuido: 0.00925363
+Tempo sequencial: 0.000111494
+Tempo distribuido: 0.00953515
+Tempo sequencial: 0.000247348
+Tempo distribuido: 0.015886
+Tempo sequencial: 0.000113586
+Tempo distribuido: 0.00783292
+Tempo sequencial: 0.000117234
+Tempo distribuido: 0.0170624
+Tempo sequencial: 0.00060223
+Tempo distribuido: 0.0147635
+Tempo sequencial: 0.000118939
+Tempo distribuido: 0.0115016
+Tempo sequencial: 0.000111016
+Tempo distribuido: 0.011307
+
+Media Tempo sequencial: 0.000174517
+
+Media Tempo distribuido: 0.0133587
+
+Tamanho da matriz: 40
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.000297841
+Tempo distribuido: 0.0185405
+Tempo sequencial: 0.00027429
+Tempo distribuido: 0.00865578
+Tempo sequencial: 0.000273557
+Tempo distribuido: 0.00968876
+Tempo sequencial: 0.000321118
+Tempo distribuido: 0.0094913
+Tempo sequencial: 0.000299382
+Tempo distribuido: 0.00725427
+Tempo sequencial: 0.000339405
+Tempo distribuido: 0.00263093
+Tempo sequencial: 0.000309629
+Tempo distribuido: 0.00291431
+Tempo sequencial: 0.000307931
+Tempo distribuido: 0.0111338
+Tempo sequencial: 0.000968795
+Tempo distribuido: 0.00269543
+Tempo sequencial: 0.000299997
+Tempo distribuido: 9.8611e-05
+
+Media Tempo sequencial: 0.000369194
+
+Media Tempo distribuido: 0.00731036
+
+Tamanho da matriz: 50
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.000413907
+Tempo distribuido: 0.0265875
+Tempo sequencial: 0.000531494
+Tempo distribuido: 0.0057274
+Tempo sequencial: 0.000597564
+Tempo distribuido: 0.0141571
+Tempo sequencial: 0.000511848
+Tempo distribuido: 0.00239676
+Tempo sequencial: 0.000533547
+Tempo distribuido: 0.00463527
+Tempo sequencial: 0.000499863
+Tempo distribuido: 0.0599019
+Tempo sequencial: 0.000486173
+Tempo distribuido: 0.00173263
+Tempo sequencial: 0.00577359
+Tempo distribuido: 0.00761332
+Tempo sequencial: 0.00078308
+Tempo distribuido: 0.0184274
+Tempo sequencial: 0.00124416
+Tempo distribuido: 0.0104471
+
+Media Tempo sequencial: 0.00113752
+
+Media Tempo distribuido: 0.0151626
+
+Tamanho da matriz: 60
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.00393774
+Tempo distribuido: 0.033676
+Tempo sequencial: 0.00171088
+Tempo distribuido: 0.00467741
+Tempo sequencial: 0.00104151
+Tempo distribuido: 0.0062438
+Tempo sequencial: 0.00130038
+Tempo distribuido: 0.000335209
+Tempo sequencial: 0.00197587
+Tempo distribuido: 0.0151557
+Tempo sequencial: 0.00163219
+Tempo distribuido: 0.00155563
+Tempo sequencial: 0.000838216
+Tempo distribuido: 0.000306309
+Tempo sequencial: 0.00123149
+Tempo distribuido: 0.00671216
+Tempo sequencial: 0.000866844
+Tempo distribuido: 0.000314877
+Tempo sequencial: 0.000873405
+Tempo distribuido: 0.0033142
+
+Media Tempo sequencial: 0.00154085
+
+Media Tempo distribuido: 0.00722913
+
+Tamanho da matriz: 70
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.00142089
+Tempo distribuido: 0.0661442
+Tempo sequencial: 0.00169308
+Tempo distribuido: 0.0151766
+Tempo sequencial: 0.00212223
+Tempo distribuido: 0.0207307
+Tempo sequencial: 0.00846433
+Tempo distribuido: 0.0426152
+Tempo sequencial: 0.00188615
+Tempo distribuido: 0.0126369
+Tempo sequencial: 0.00225746
+Tempo distribuido: 0.0118377
+Tempo sequencial: 0.00965003
+Tempo distribuido: 0.0224106
+Tempo sequencial: 0.0019014
+Tempo distribuido: 0.0283142
+Tempo sequencial: 0.00300788
+Tempo distribuido: 0.0410498
+Tempo sequencial: 0.00193201
+Tempo distribuido: 0.0133135
+
+Media Tempo sequencial: 0.00343355
+
+Media Tempo distribuido: 0.0274229
+
+Tamanho da matriz: 80
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.00399022
+Tempo distribuido: 0.0183183
+Tempo sequencial: 0.00913512
+Tempo distribuido: 0.0169174
+Tempo sequencial: 0.011484
+Tempo distribuido: 0.0139093
+Tempo sequencial: 0.011937
+Tempo distribuido: 0.0107364
+Tempo sequencial: 0.00678101
+Tempo distribuido: 0.00833909
+Tempo sequencial: 0.00806533
+Tempo distribuido: 0.00358134
+Tempo sequencial: 0.00810472
+Tempo distribuido: 0.0113434
+Tempo sequencial: 0.00371115
+Tempo distribuido: 0.0143741
+Tempo sequencial: 0.00272741
+Tempo distribuido: 0.0360536
+Tempo sequencial: 0.0070178
+Tempo distribuido: 0.0129605
+
+Media Tempo sequencial: 0.00729538
+
+Media Tempo distribuido: 0.0146533
+
+Tamanho da matriz: 90
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.00433674
+Tempo distribuido: 0.027399
+Tempo sequencial: 0.0138621
+Tempo distribuido: 0.00369322
+Tempo sequencial: 0.0056157
+Tempo distribuido: 0.00599651
+Tempo sequencial: 0.0113183
+Tempo distribuido: 0.0103772
+Tempo sequencial: 0.00693939
+Tempo distribuido: 0.0163857
+Tempo sequencial: 0.00574735
+Tempo distribuido: 0.0137253
+Tempo sequencial: 0.00509813
+Tempo distribuido: 0.00621963
+Tempo sequencial: 0.012904
+Tempo distribuido: 0.00443411
+Tempo sequencial: 0.00319504
+Tempo distribuido: 0.0110202
+Tempo sequencial: 0.0132741
+Tempo distribuido: 0.00965881
+
+Media Tempo sequencial: 0.00822909
+
+Media Tempo distribuido: 0.010891
+
+Tamanho da matriz: 100
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0124418
+Tempo distribuido: 0.0526324
+Tempo sequencial: 0.0177057
+Tempo distribuido: 0.0110538
+Tempo sequencial: 0.0134582
+Tempo distribuido: 0.0203175
+Tempo sequencial: 0.0178095
+Tempo distribuido: 0.00539813
+Tempo sequencial: 0.00962783
+Tempo distribuido: 0.0265033
+Tempo sequencial: 0.0228573
+Tempo distribuido: 0.0538928
+Tempo sequencial: 0.00548343
+Tempo distribuido: 0.011559
+Tempo sequencial: 0.0188161
+Tempo distribuido: 0.0282204
+Tempo sequencial: 0.0211572
+Tempo distribuido: 0.0156469
+Tempo sequencial: 0.0238898
+Tempo distribuido: 0.00449302
+
+Media Tempo sequencial: 0.0163247
+
+Media Tempo distribuido: 0.0229717
+
+Tamanho da matriz: 110
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.019658
+Tempo distribuido: 0.0604068
+Tempo sequencial: 0.0223595
+Tempo distribuido: 0.0142267
+Tempo sequencial: 0.0304811
+Tempo distribuido: 0.0107241
+Tempo sequencial: 0.0318139
+Tempo distribuido: 0.0151562
+Tempo sequencial: 0.0446885
+Tempo distribuido: 0.0210735
+Tempo sequencial: 0.0131319
+Tempo distribuido: 0.016002
+Tempo sequencial: 0.0055509
+Tempo distribuido: 0.0179148
+Tempo sequencial: 0.0132238
+Tempo distribuido: 0.0185443
+Tempo sequencial: 0.009337
+Tempo distribuido: 0.0018094
+Tempo sequencial: 0.00664084
+Tempo distribuido: 0.0270921
+
+Media Tempo sequencial: 0.0196885
+
+Media Tempo distribuido: 0.020295
+
+Tamanho da matriz: 120
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.00709718
+Tempo distribuido: 0.0202528
+Tempo sequencial: 0.00997629
+Tempo distribuido: 0.00978335
+Tempo sequencial: 0.0134025
+Tempo distribuido: 0.0100117
+Tempo sequencial: 0.0141533
+Tempo distribuido: 0.0105925
+Tempo sequencial: 0.0122775
+Tempo distribuido: 0.00649579
+Tempo sequencial: 0.0101155
+Tempo distribuido: 0.0161386
+Tempo sequencial: 0.00798459
+Tempo distribuido: 0.00646231
+Tempo sequencial: 0.0102472
+Tempo distribuido: 0.00277544
+Tempo sequencial: 0.00747156
+Tempo distribuido: 0.00252348
+Tempo sequencial: 0.0105726
+Tempo distribuido: 0.00268348
+
+Media Tempo sequencial: 0.0103298
+
+Media Tempo distribuido: 0.00877195
+
+Tamanho da matriz: 130
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0095901
+Tempo distribuido: 0.032533
+Tempo sequencial: 0.0224
+Tempo distribuido: 0.00984467
+Tempo sequencial: 0.00972233
+Tempo distribuido: 0.0127107
+Tempo sequencial: 0.0409009
+Tempo distribuido: 0.0131307
+Tempo sequencial: 0.0254567
+Tempo distribuido: 0.0213395
+Tempo sequencial: 0.0489034
+Tempo distribuido: 0.0199363
+Tempo sequencial: 0.0321841
+Tempo distribuido: 0.0141393
+Tempo sequencial: 0.0451201
+Tempo distribuido: 0.0295846
+Tempo sequencial: 0.0365288
+Tempo distribuido: 0.0224253
+Tempo sequencial: 0.0264587
+Tempo distribuido: 0.0234551
+
+Media Tempo sequencial: 0.0297265
+
+Media Tempo distribuido: 0.0199099
+
+Tamanho da matriz: 140
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0604961
+Tempo distribuido: 0.0378752
+Tempo sequencial: 0.0465428
+Tempo distribuido: 0.0256297
+Tempo sequencial: 0.0327209
+Tempo distribuido: 0.0217594
+Tempo sequencial: 0.0297369
+Tempo distribuido: 0.0121911
+Tempo sequencial: 0.01716
+Tempo distribuido: 0.0141226
+Tempo sequencial: 0.0309021
+Tempo distribuido: 0.0290887
+Tempo sequencial: 0.04045
+Tempo distribuido: 0.016194
+Tempo sequencial: 0.0302739
+Tempo distribuido: 0.0209876
+Tempo sequencial: 0.0225738
+Tempo distribuido: 0.00790118
+Tempo sequencial: 0.0184337
+Tempo distribuido: 0.016353
+
+Media Tempo sequencial: 0.032929
+
+Media Tempo distribuido: 0.0202102
+
+Tamanho da matriz: 150
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0150787
+Tempo distribuido: 0.0211597
+Tempo sequencial: 0.0181044
+Tempo distribuido: 0.0177139
+Tempo sequencial: 0.0172046
+Tempo distribuido: 0.0108715
+Tempo sequencial: 0.020239
+Tempo distribuido: 0.0273635
+Tempo sequencial: 0.035378
+Tempo distribuido: 0.0234644
+Tempo sequencial: 0.107691
+Tempo distribuido: 0.0610442
+Tempo sequencial: 0.0987298
+Tempo distribuido: 0.025336
+Tempo sequencial: 0.0648385
+Tempo distribuido: 0.0331435
+Tempo sequencial: 0.0310151
+Tempo distribuido: 0.0279643
+Tempo sequencial: 0.0443544
+Tempo distribuido: 0.010431
+
+Media Tempo sequencial: 0.0452633
+
+Media Tempo distribuido: 0.0258492
+
+Tamanho da matriz: 160
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0374391
+Tempo distribuido: 0.0925214
+Tempo sequencial: 0.0610239
+Tempo distribuido: 0.0619407
+Tempo sequencial: 0.0889304
+Tempo distribuido: 0.0554624
+Tempo sequencial: 0.0703171
+Tempo distribuido: 0.0622342
+Tempo sequencial: 0.0441548
+Tempo distribuido: 0.0317546
+Tempo sequencial: 0.034065
+Tempo distribuido: 0.0324676
+Tempo sequencial: 0.0218775
+Tempo distribuido: 0.0216271
+Tempo sequencial: 0.0274459
+Tempo distribuido: 0.0149303
+Tempo sequencial: 0.0283468
+Tempo distribuido: 0.039406
+Tempo sequencial: 0.0408196
+Tempo distribuido: 0.0473666
+
+Media Tempo sequencial: 0.045442
+
+Media Tempo distribuido: 0.0459711
+
+Tamanho da matriz: 170
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0290389
+Tempo distribuido: 0.0171484
+Tempo sequencial: 0.0344791
+Tempo distribuido: 0.0156015
+Tempo sequencial: 0.0354097
+Tempo distribuido: 0.0338364
+Tempo sequencial: 0.0384798
+Tempo distribuido: 0.014515
+Tempo sequencial: 0.0370759
+Tempo distribuido: 0.0296612
+Tempo sequencial: 0.0482563
+Tempo distribuido: 0.0212721
+Tempo sequencial: 0.0376225
+Tempo distribuido: 0.0265328
+Tempo sequencial: 0.0364098
+Tempo distribuido: 0.0510419
+Tempo sequencial: 0.0642116
+Tempo distribuido: 0.0340393
+Tempo sequencial: 0.0473563
+Tempo distribuido: 0.0195591
+
+Media Tempo sequencial: 0.040834
+
+Media Tempo distribuido: 0.0263208
+
+Tamanho da matriz: 180
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0452029
+Tempo distribuido: 0.0364727
+Tempo sequencial: 0.0391894
+Tempo distribuido: 0.0280749
+Tempo sequencial: 0.0298371
+Tempo distribuido: 0.0204309
+Tempo sequencial: 0.0419938
+Tempo distribuido: 0.029616
+Tempo sequencial: 0.0398976
+Tempo distribuido: 0.0162704
+Tempo sequencial: 0.042423
+Tempo distribuido: 0.0376166
+Tempo sequencial: 0.0400135
+Tempo distribuido: 0.0269641
+Tempo sequencial: 0.0387234
+Tempo distribuido: 0.0170049
+Tempo sequencial: 0.0251829
+Tempo distribuido: 0.0315317
+Tempo sequencial: 0.0425993
+Tempo distribuido: 0.0122645
+
+Media Tempo sequencial: 0.0385063
+
+Media Tempo distribuido: 0.0256247
+
+Tamanho da matriz: 190
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0385896
+Tempo distribuido: 0.0293546
+Tempo sequencial: 0.0457418
+Tempo distribuido: 0.0368156
+Tempo sequencial: 0.045866
+Tempo distribuido: 0.0181323
+Tempo sequencial: 0.042558
+Tempo distribuido: 0.0238082
+Tempo sequencial: 0.0433529
+Tempo distribuido: 0.0529592
+Tempo sequencial: 0.0636117
+Tempo distribuido: 0.0186822
+Tempo sequencial: 0.0349754
+Tempo distribuido: 0.0179143
+Tempo sequencial: 0.0419246
+Tempo distribuido: 0.0313482
+Tempo sequencial: 0.0477741
+Tempo distribuido: 0.0292051
+Tempo sequencial: 0.057666
+Tempo distribuido: 0.0527316
+
+Media Tempo sequencial: 0.046206
+
+Media Tempo distribuido: 0.0310951
+
+Tamanho da matriz: 200
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.055857
+Tempo distribuido: 0.0275069
+Tempo sequencial: 0.0738873
+Tempo distribuido: 0.0562858
+Tempo sequencial: 0.0533229
+Tempo distribuido: 0.0352688
+Tempo sequencial: 0.111004
+Tempo distribuido: 0.0305023
+Tempo sequencial: 0.0551475
+Tempo distribuido: 0.0272624
+Tempo sequencial: 0.0552483
+Tempo distribuido: 0.0406551
+Tempo sequencial: 0.0613425
+Tempo distribuido: 0.0265356
+Tempo sequencial: 0.127462
+Tempo distribuido: 0.046724
+Tempo sequencial: 0.0591606
+Tempo distribuido: 0.032669
+Tempo sequencial: 0.0647697
+Tempo distribuido: 0.041945
+
+Media Tempo sequencial: 0.0717202
+
+Media Tempo distribuido: 0.0365355
+
+Tamanho da matriz: 210
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.066339
+Tempo distribuido: 0.0334939
+Tempo sequencial: 0.0813555
+Tempo distribuido: 0.0423529
+Tempo sequencial: 0.0975164
+Tempo distribuido: 0.0394354
+Tempo sequencial: 0.0685998
+Tempo distribuido: 0.0450649
+Tempo sequencial: 0.0656495
+Tempo distribuido: 0.0405892
+Tempo sequencial: 0.059058
+Tempo distribuido: 0.0327581
+Tempo sequencial: 0.0705889
+Tempo distribuido: 0.0596736
+Tempo sequencial: 0.103701
+Tempo distribuido: 0.0291029
+Tempo sequencial: 0.0640105
+Tempo distribuido: 0.0341935
+Tempo sequencial: 0.0496696
+Tempo distribuido: 0.0276402
+
+Media Tempo sequencial: 0.0726488
+
+Media Tempo distribuido: 0.0384305
+
+Tamanho da matriz: 220
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0531519
+Tempo distribuido: 0.0818469
+Tempo sequencial: 0.104842
+Tempo distribuido: 0.112171
+Tempo sequencial: 0.134323
+Tempo distribuido: 0.0613487
+Tempo sequencial: 0.140006
+Tempo distribuido: 0.0488208
+Tempo sequencial: 0.174472
+Tempo distribuido: 0.0752089
+Tempo sequencial: 0.0780466
+Tempo distribuido: 0.086309
+Tempo sequencial: 0.0924986
+Tempo distribuido: 0.040224
+Tempo sequencial: 0.0717829
+Tempo distribuido: 0.0602598
+Tempo sequencial: 0.108592
+Tempo distribuido: 0.0349331
+Tempo sequencial: 0.054959
+Tempo distribuido: 0.0218221
+
+Media Tempo sequencial: 0.101267
+
+Media Tempo distribuido: 0.0622945
+
+Tamanho da matriz: 230
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.066359
+Tempo distribuido: 0.055104
+Tempo sequencial: 0.120068
+Tempo distribuido: 0.0942972
+Tempo sequencial: 0.0767827
+Tempo distribuido: 0.0802897
+Tempo sequencial: 0.0719738
+Tempo distribuido: 0.0215245
+Tempo sequencial: 0.0443123
+Tempo distribuido: 0.025628
+Tempo sequencial: 0.0455524
+Tempo distribuido: 0.0254761
+Tempo sequencial: 0.0454001
+Tempo distribuido: 0.0216649
+Tempo sequencial: 0.0512171
+Tempo distribuido: 0.07254
+Tempo sequencial: 0.088989
+Tempo distribuido: 0.0646522
+Tempo sequencial: 0.0864873
+Tempo distribuido: 0.0245284
+
+Media Tempo sequencial: 0.0697142
+
+Media Tempo distribuido: 0.0485705
+
+Tamanho da matriz: 240
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0456188
+Tempo distribuido: 0.0376924
+Tempo sequencial: 0.0497981
+Tempo distribuido: 0.0284824
+Tempo sequencial: 0.0510731
+Tempo distribuido: 0.0437173
+Tempo sequencial: 0.0502859
+Tempo distribuido: 0.0292437
+Tempo sequencial: 0.0671189
+Tempo distribuido: 0.0695073
+Tempo sequencial: 0.0991696
+Tempo distribuido: 0.036534
+Tempo sequencial: 0.0828049
+Tempo distribuido: 0.0934388
+Tempo sequencial: 0.116292
+Tempo distribuido: 0.0260685
+Tempo sequencial: 0.0544897
+Tempo distribuido: 0.0237498
+Tempo sequencial: 0.0573069
+Tempo distribuido: 0.0234402
+
+Media Tempo sequencial: 0.0673958
+
+Media Tempo distribuido: 0.0411874
+
+Tamanho da matriz: 250
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0523285
+Tempo distribuido: 0.0300712
+Tempo sequencial: 0.0562865
+Tempo distribuido: 0.0284463
+Tempo sequencial: 0.0555159
+Tempo distribuido: 0.031162
+Tempo sequencial: 0.0551241
+Tempo distribuido: 0.0269794
+Tempo sequencial: 0.0562452
+Tempo distribuido: 0.0270274
+Tempo sequencial: 0.0958229
+Tempo distribuido: 0.0259841
+Tempo sequencial: 0.147175
+Tempo distribuido: 0.0532058
+Tempo sequencial: 0.0898499
+Tempo distribuido: 0.0401626
+Tempo sequencial: 0.0566605
+Tempo distribuido: 0.043017
+Tempo sequencial: 0.0548525
+Tempo distribuido: 0.0295394
+
+Media Tempo sequencial: 0.0719861
+
+Media Tempo distribuido: 0.0335595
+
+Tamanho da matriz: 260
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0692362
+Tempo distribuido: 0.0643141
+Tempo sequencial: 0.0795509
+Tempo distribuido: 0.0319119
+Tempo sequencial: 0.0687546
+Tempo distribuido: 0.0300936
+Tempo sequencial: 0.0896809
+Tempo distribuido: 0.056593
+Tempo sequencial: 0.0769151
+Tempo distribuido: 0.0654739
+Tempo sequencial: 0.136842
+Tempo distribuido: 0.0810302
+Tempo sequencial: 0.076775
+Tempo distribuido: 0.047957
+Tempo sequencial: 0.0780031
+Tempo distribuido: 0.0557594
+Tempo sequencial: 0.0781146
+Tempo distribuido: 0.0392035
+Tempo sequencial: 0.077261
+Tempo distribuido: 0.0406172
+
+Media Tempo sequencial: 0.0831133
+
+Media Tempo distribuido: 0.0512954
+
+Tamanho da matriz: 270
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0847917
+Tempo distribuido: 0.0432424
+Tempo sequencial: 0.0823553
+Tempo distribuido: 0.0522768
+Tempo sequencial: 0.0851131
+Tempo distribuido: 0.0393941
+Tempo sequencial: 0.0851325
+Tempo distribuido: 0.0456595
+Tempo sequencial: 0.0886653
+Tempo distribuido: 0.0469961
+Tempo sequencial: 0.079511
+Tempo distribuido: 0.0459543
+Tempo sequencial: 0.079878
+Tempo distribuido: 0.0441358
+Tempo sequencial: 0.0829457
+Tempo distribuido: 0.0547153
+Tempo sequencial: 0.0801108
+Tempo distribuido: 0.0481095
+Tempo sequencial: 0.0808299
+Tempo distribuido: 0.0443091
+
+Media Tempo sequencial: 0.0829333
+
+Media Tempo distribuido: 0.0464793
+
+Tamanho da matriz: 280
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0823301
+Tempo distribuido: 0.0575355
+Tempo sequencial: 0.0930126
+Tempo distribuido: 0.0550712
+Tempo sequencial: 0.132793
+Tempo distribuido: 0.0874231
+Tempo sequencial: 0.148253
+Tempo distribuido: 0.0937216
+Tempo sequencial: 0.13249
+Tempo distribuido: 0.142319
+Tempo sequencial: 0.186969
+Tempo distribuido: 0.0926676
+Tempo sequencial: 0.180208
+Tempo distribuido: 0.0988964
+Tempo sequencial: 0.17338
+Tempo distribuido: 0.0774787
+Tempo sequencial: 0.0977175
+Tempo distribuido: 0.0494489
+Tempo sequencial: 0.0864997
+Tempo distribuido: 0.0790205
+
+Media Tempo sequencial: 0.131365
+
+Media Tempo distribuido: 0.0833583
+
+Tamanho da matriz: 290
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.157676
+Tempo distribuido: 0.121674
+Tempo sequencial: 0.1727
+Tempo distribuido: 0.0867495
+Tempo sequencial: 0.232986
+Tempo distribuido: 0.126035
+Tempo sequencial: 0.305652
+Tempo distribuido: 0.186986
+Tempo sequencial: 0.158913
+Tempo distribuido: 0.0650186
+Tempo sequencial: 0.106579
+Tempo distribuido: 0.0518096
+Tempo sequencial: 0.100169
+Tempo distribuido: 0.057397
+Tempo sequencial: 0.114916
+Tempo distribuido: 0.0488108
+Tempo sequencial: 0.0907282
+Tempo distribuido: 0.0542379
+Tempo sequencial: 0.092234
+Tempo distribuido: 0.0516131
+
+Media Tempo sequencial: 0.153255
+
+Media Tempo distribuido: 0.0850331
+
+Tamanho da matriz: 300
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.0982994
+Tempo distribuido: 0.0639019
+Tempo sequencial: 0.107664
+Tempo distribuido: 0.0655994
+Tempo sequencial: 0.107093
+Tempo distribuido: 0.0605065
+Tempo sequencial: 0.112009
+Tempo distribuido: 0.0653558
+Tempo sequencial: 0.106708
+Tempo distribuido: 0.0605986
+Tempo sequencial: 0.106644
+Tempo distribuido: 0.0657621
+Tempo sequencial: 0.107102
+Tempo distribuido: 0.0575078
+Tempo sequencial: 0.103771
+Tempo distribuido: 0.0645922
+Tempo sequencial: 0.106397
+Tempo distribuido: 0.0616031
+Tempo sequencial: 0.111839
+Tempo distribuido: 0.060297
+
+Media Tempo sequencial: 0.106753
+
+Media Tempo distribuido: 0.0625724
+
+Tamanho da matriz: 310
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.112518
+Tempo distribuido: 0.0686987
+Tempo sequencial: 0.109981
+Tempo distribuido: 0.0696031
+Tempo sequencial: 0.114501
+Tempo distribuido: 0.0642785
+Tempo sequencial: 0.113867
+Tempo distribuido: 0.0777495
+Tempo sequencial: 0.19373
+Tempo distribuido: 0.0922467
+Tempo sequencial: 0.175771
+Tempo distribuido: 0.130375
+Tempo sequencial: 0.193362
+Tempo distribuido: 0.119875
+Tempo sequencial: 0.186774
+Tempo distribuido: 0.11783
+Tempo sequencial: 0.168561
+Tempo distribuido: 0.109167
+Tempo sequencial: 0.149318
+Tempo distribuido: 0.107127
+
+Media Tempo sequencial: 0.151838
+
+Media Tempo distribuido: 0.0956949
+
+Tamanho da matriz: 320
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.131443
+Tempo distribuido: 0.0747441
+Tempo sequencial: 0.126846
+Tempo distribuido: 0.0789118
+Tempo sequencial: 0.133683
+Tempo distribuido: 0.0785168
+Tempo sequencial: 0.123589
+Tempo distribuido: 0.0754073
+Tempo sequencial: 0.13096
+Tempo distribuido: 0.0754547
+Tempo sequencial: 0.180905
+Tempo distribuido: 0.146701
+Tempo sequencial: 0.267625
+Tempo distribuido: 0.156914
+Tempo sequencial: 0.298491
+Tempo distribuido: 0.157054
+Tempo sequencial: 0.310789
+Tempo distribuido: 0.117151
+Tempo sequencial: 0.194255
+Tempo distribuido: 0.0798927
+
+Media Tempo sequencial: 0.189859
+
+Media Tempo distribuido: 0.104075
+
+Tamanho da matriz: 330
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.13512
+Tempo distribuido: 0.0741562
+Tempo sequencial: 0.14445
+Tempo distribuido: 0.0862622
+Tempo sequencial: 0.13927
+Tempo distribuido: 0.0833698
+Tempo sequencial: 0.134863
+Tempo distribuido: 0.115725
+Tempo sequencial: 0.307365
+Tempo distribuido: 0.184733
+Tempo sequencial: 0.232874
+Tempo distribuido: 0.106412
+Tempo sequencial: 0.242658
+Tempo distribuido: 0.195166
+Tempo sequencial: 0.228396
+Tempo distribuido: 0.113596
+Tempo sequencial: 0.183822
+Tempo distribuido: 0.138204
+Tempo sequencial: 0.274991
+Tempo distribuido: 0.155708
+
+Media Tempo sequencial: 0.202381
+
+Media Tempo distribuido: 0.125333
+
+Tamanho da matriz: 340
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.251179
+Tempo distribuido: 0.179523
+Tempo sequencial: 0.3186
+Tempo distribuido: 0.126931
+Tempo sequencial: 0.181818
+Tempo distribuido: 0.0969224
+Tempo sequencial: 0.161573
+Tempo distribuido: 0.0889292
+Tempo sequencial: 0.162831
+Tempo distribuido: 0.0890306
+Tempo sequencial: 0.15458
+Tempo distribuido: 0.0857223
+Tempo sequencial: 0.242366
+Tempo distribuido: 0.124088
+Tempo sequencial: 0.250781
+Tempo distribuido: 0.131996
+Tempo sequencial: 0.262165
+Tempo distribuido: 0.153135
+Tempo sequencial: 0.31718
+Tempo distribuido: 0.163187
+
+Media Tempo sequencial: 0.230307
+
+Media Tempo distribuido: 0.123946
+
+Tamanho da matriz: 350
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.292434
+Tempo distribuido: 0.182571
+Tempo sequencial: 0.272284
+Tempo distribuido: 0.164435
+Tempo sequencial: 0.346502
+Tempo distribuido: 0.192812
+Tempo sequencial: 0.351842
+Tempo distribuido: 0.233317
+Tempo sequencial: 0.324055
+Tempo distribuido: 0.151153
+Tempo sequencial: 0.326467
+Tempo distribuido: 0.187532
+Tempo sequencial: 0.331431
+Tempo distribuido: 0.177505
+Tempo sequencial: 0.353904
+Tempo distribuido: 0.170479
+Tempo sequencial: 0.262794
+Tempo distribuido: 0.189218
+Tempo sequencial: 0.29198
+Tempo distribuido: 0.199985
+
+Media Tempo sequencial: 0.315369
+
+Media Tempo distribuido: 0.184901
+
+Tamanho da matriz: 360
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.332799
+Tempo distribuido: 0.227216
+Tempo sequencial: 0.253201
+Tempo distribuido: 0.161166
+Tempo sequencial: 0.302698
+Tempo distribuido: 0.137751
+Tempo sequencial: 0.291504
+Tempo distribuido: 0.135107
+Tempo sequencial: 0.252844
+Tempo distribuido: 0.15979
+Tempo sequencial: 0.336615
+Tempo distribuido: 0.16676
+Tempo sequencial: 0.205814
+Tempo distribuido: 0.111514
+Tempo sequencial: 0.181321
+Tempo distribuido: 0.10678
+Tempo sequencial: 0.194308
+Tempo distribuido: 0.0971093
+Tempo sequencial: 0.280459
+Tempo distribuido: 0.148946
+
+Media Tempo sequencial: 0.263156
+
+Media Tempo distribuido: 0.145214
+
+Tamanho da matriz: 370
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.272234
+Tempo distribuido: 0.212471
+Tempo sequencial: 0.369241
+Tempo distribuido: 0.19661
+Tempo sequencial: 0.289968
+Tempo distribuido: 0.154666
+Tempo sequencial: 0.194438
+Tempo distribuido: 0.113545
+Tempo sequencial: 0.192869
+Tempo distribuido: 0.120126
+Tempo sequencial: 0.333375
+Tempo distribuido: 0.156428
+Tempo sequencial: 0.347883
+Tempo distribuido: 0.166426
+Tempo sequencial: 0.334509
+Tempo distribuido: 0.218809
+Tempo sequencial: 0.294814
+Tempo distribuido: 0.186972
+Tempo sequencial: 0.306028
+Tempo distribuido: 0.148133
+
+Media Tempo sequencial: 0.293536
+
+Media Tempo distribuido: 0.167419
+
+Tamanho da matriz: 380
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.29942
+Tempo distribuido: 0.151433
+Tempo sequencial: 0.218519
+Tempo distribuido: 0.124834
+Tempo sequencial: 0.241754
+Tempo distribuido: 0.192808
+Tempo sequencial: 0.367337
+Tempo distribuido: 0.171049
+Tempo sequencial: 0.327118
+Tempo distribuido: 0.175689
+Tempo sequencial: 0.313023
+Tempo distribuido: 0.180381
+Tempo sequencial: 0.394908
+Tempo distribuido: 0.19491
+Tempo sequencial: 0.439324
+Tempo distribuido: 0.234623
+Tempo sequencial: 0.369613
+Tempo distribuido: 0.131815
+Tempo sequencial: 0.214082
+Tempo distribuido: 0.139928
+
+Media Tempo sequencial: 0.31851
+
+Media Tempo distribuido: 0.169747
+
+Tamanho da matriz: 390
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.219059
+Tempo distribuido: 0.122376
+Tempo sequencial: 0.213721
+Tempo distribuido: 0.124549
+Tempo sequencial: 0.21867
+Tempo distribuido: 0.119097
+Tempo sequencial: 0.213326
+Tempo distribuido: 0.169513
+Tempo sequencial: 0.30498
+Tempo distribuido: 0.208514
+Tempo sequencial: 0.306661
+Tempo distribuido: 0.174718
+Tempo sequencial: 0.30594
+Tempo distribuido: 0.140326
+Tempo sequencial: 0.23136
+Tempo distribuido: 0.125723
+Tempo sequencial: 0.224675
+Tempo distribuido: 0.164546
+Tempo sequencial: 0.318128
+Tempo distribuido: 0.181205
+
+Media Tempo sequencial: 0.255652
+
+Media Tempo distribuido: 0.153057
+
+Tamanho da matriz: 400
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.361427
+Tempo distribuido: 0.188149
+Tempo sequencial: 0.38719
+Tempo distribuido: 0.217147
+Tempo sequencial: 0.359021
+Tempo distribuido: 0.204004
+Tempo sequencial: 0.367995
+Tempo distribuido: 0.205239
+Tempo sequencial: 0.392825
+Tempo distribuido: 0.21413
+Tempo sequencial: 0.384043
+Tempo distribuido: 0.24978
+Tempo sequencial: 0.339299
+Tempo distribuido: 0.148056
+Tempo sequencial: 0.246036
+Tempo distribuido: 0.135116
+Tempo sequencial: 0.26144
+Tempo distribuido: 0.143347
+Tempo sequencial: 0.311825
+Tempo distribuido: 0.254284
+
+Media Tempo sequencial: 0.34111
+
+Media Tempo distribuido: 0.195925
+
+Tamanho da matriz: 410
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.356134
+Tempo distribuido: 0.189876
+Tempo sequencial: 0.343023
+Tempo distribuido: 0.246231
+Tempo sequencial: 0.452929
+Tempo distribuido: 0.29774
+Tempo sequencial: 0.383153
+Tempo distribuido: 0.259337
+Tempo sequencial: 0.369058
+Tempo distribuido: 0.161286
+Tempo sequencial: 0.258972
+Tempo distribuido: 0.158726
+Tempo sequencial: 0.249181
+Tempo distribuido: 0.151294
+Tempo sequencial: 0.37179
+Tempo distribuido: 0.217886
+Tempo sequencial: 0.401637
+Tempo distribuido: 0.238918
+Tempo sequencial: 0.35716
+Tempo distribuido: 0.15404
+
+Media Tempo sequencial: 0.354304
+
+Media Tempo distribuido: 0.207534
+
+Tamanho da matriz: 420
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.410023
+Tempo distribuido: 0.181992
+Tempo sequencial: 0.520838
+Tempo distribuido: 0.297897
+Tempo sequencial: 0.577441
+Tempo distribuido: 0.259744
+Tempo sequencial: 0.485664
+Tempo distribuido: 0.235288
+Tempo sequencial: 0.430117
+Tempo distribuido: 0.263766
+Tempo sequencial: 0.363497
+Tempo distribuido: 0.177244
+Tempo sequencial: 0.362569
+Tempo distribuido: 0.198536
+Tempo sequencial: 0.398404
+Tempo distribuido: 0.237364
+Tempo sequencial: 0.51448
+Tempo distribuido: 0.336786
+Tempo sequencial: 0.64835
+Tempo distribuido: 0.339033
+
+Media Tempo sequencial: 0.471138
+
+Media Tempo distribuido: 0.252765
+
+Tamanho da matriz: 430
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.519721
+Tempo distribuido: 0.408371
+Tempo sequencial: 0.456051
+Tempo distribuido: 0.251014
+Tempo sequencial: 0.434028
+Tempo distribuido: 0.310298
+Tempo sequencial: 0.479605
+Tempo distribuido: 0.242659
+Tempo sequencial: 0.410859
+Tempo distribuido: 0.248193
+Tempo sequencial: 0.511768
+Tempo distribuido: 0.259057
+Tempo sequencial: 0.462217
+Tempo distribuido: 0.259186
+Tempo sequencial: 0.461124
+Tempo distribuido: 0.280649
+Tempo sequencial: 0.520142
+Tempo distribuido: 0.236832
+Tempo sequencial: 0.352192
+Tempo distribuido: 0.285172
+
+Media Tempo sequencial: 0.460771
+
+Media Tempo distribuido: 0.278143
+
+Tamanho da matriz: 440
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.473434
+Tempo distribuido: 0.245573
+Tempo sequencial: 0.483087
+Tempo distribuido: 0.247996
+Tempo sequencial: 0.437186
+Tempo distribuido: 0.199263
+Tempo sequencial: 0.410275
+Tempo distribuido: 0.242987
+Tempo sequencial: 0.555406
+Tempo distribuido: 0.281799
+Tempo sequencial: 0.389532
+Tempo distribuido: 0.18581
+Tempo sequencial: 0.333719
+Tempo distribuido: 0.189657
+Tempo sequencial: 0.337335
+Tempo distribuido: 0.177762
+Tempo sequencial: 0.392813
+Tempo distribuido: 0.228694
+Tempo sequencial: 0.599158
+Tempo distribuido: 0.331894
+
+Media Tempo sequencial: 0.441194
+
+Media Tempo distribuido: 0.233143
+
+Tamanho da matriz: 450
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.613119
+Tempo distribuido: 0.263928
+Tempo sequencial: 0.496272
+Tempo distribuido: 0.3122
+Tempo sequencial: 0.492795
+Tempo distribuido: 0.251776
+Tempo sequencial: 0.55431
+Tempo distribuido: 0.433766
+Tempo sequencial: 0.646265
+Tempo distribuido: 0.319838
+Tempo sequencial: 0.501249
+Tempo distribuido: 0.291685
+Tempo sequencial: 0.413065
+Tempo distribuido: 0.324668
+Tempo sequencial: 0.624959
+Tempo distribuido: 0.268795
+Tempo sequencial: 0.440637
+Tempo distribuido: 0.277923
+Tempo sequencial: 0.652977
+Tempo distribuido: 0.267094
+
+Media Tempo sequencial: 0.543565
+
+Media Tempo distribuido: 0.301167
+
+Tamanho da matriz: 460
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.408509
+Tempo distribuido: 0.214485
+Tempo sequencial: 0.581085
+Tempo distribuido: 0.293351
+Tempo sequencial: 0.591433
+Tempo distribuido: 0.32144
+Tempo sequencial: 0.541216
+Tempo distribuido: 0.273441
+Tempo sequencial: 0.672134
+Tempo distribuido: 0.330674
+Tempo sequencial: 0.543988
+Tempo distribuido: 0.244574
+Tempo sequencial: 0.442025
+Tempo distribuido: 0.361649
+Tempo sequencial: 0.710318
+Tempo distribuido: 0.305441
+Tempo sequencial: 0.677109
+Tempo distribuido: 0.294127
+Tempo sequencial: 0.613133
+Tempo distribuido: 0.311335
+
+Media Tempo sequencial: 0.578095
+
+Media Tempo distribuido: 0.295052
+
+Tamanho da matriz: 470
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.544001
+Tempo distribuido: 0.263764
+Tempo sequencial: 0.411068
+Tempo distribuido: 0.340568
+Tempo sequencial: 0.670282
+Tempo distribuido: 0.319241
+Tempo sequencial: 0.671376
+Tempo distribuido: 0.228079
+Tempo sequencial: 0.391916
+Tempo distribuido: 0.217982
+Tempo sequencial: 0.413088
+Tempo distribuido: 0.350803
+Tempo sequencial: 0.650519
+Tempo distribuido: 0.342026
+Tempo sequencial: 0.415619
+Tempo distribuido: 0.246033
+Tempo sequencial: 0.624204
+Tempo distribuido: 0.302159
+Tempo sequencial: 0.574823
+Tempo distribuido: 0.291403
+
+Media Tempo sequencial: 0.536689
+
+Media Tempo distribuido: 0.290206
+
+Tamanho da matriz: 480
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.687353
+Tempo distribuido: 0.268862
+Tempo sequencial: 0.748696
+Tempo distribuido: 0.463813
+Tempo sequencial: 0.647019
+Tempo distribuido: 0.250122
+Tempo sequencial: 0.580925
+Tempo distribuido: 0.359954
+Tempo sequencial: 0.693375
+Tempo distribuido: 0.25109
+Tempo sequencial: 0.578642
+Tempo distribuido: 0.410543
+Tempo sequencial: 0.704509
+Tempo distribuido: 0.460238
+Tempo sequencial: 0.831224
+Tempo distribuido: 0.351713
+Tempo sequencial: 0.452674
+Tempo distribuido: 0.249892
+Tempo sequencial: 0.419737
+Tempo distribuido: 0.244161
+
+Media Tempo sequencial: 0.634415
+
+Media Tempo distribuido: 0.331039
+
+Tamanho da matriz: 490
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.447993
+Tempo distribuido: 0.290279
+Tempo sequencial: 0.822566
+Tempo distribuido: 0.461288
+Tempo sequencial: 0.613687
+Tempo distribuido: 0.354713
+Tempo sequencial: 0.665197
+Tempo distribuido: 0.437392
+Tempo sequencial: 0.662603
+Tempo distribuido: 0.276274
+Tempo sequencial: 0.662142
+Tempo distribuido: 0.391553
+Tempo sequencial: 0.664753
+Tempo distribuido: 0.444424
+Tempo sequencial: 0.659033
+Tempo distribuido: 0.338612
+Tempo sequencial: 0.502416
+Tempo distribuido: 0.345162
+Tempo sequencial: 0.806709
+Tempo distribuido: 0.450071
+
+Media Tempo sequencial: 0.65071
+
+Media Tempo distribuido: 0.378977
+
+Tamanho da matriz: 500
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.929452
+Tempo distribuido: 0.288775
+Tempo sequencial: 0.527267
+Tempo distribuido: 0.444829
+Tempo sequencial: 0.883127
+Tempo distribuido: 0.313046
+Tempo sequencial: 0.518035
+Tempo distribuido: 0.257877
+Tempo sequencial: 0.513085
+Tempo distribuido: 0.318762
+Tempo sequencial: 0.863485
+Tempo distribuido: 0.429846
+Tempo sequencial: 0.720296
+Tempo distribuido: 0.399305
+Tempo sequencial: 0.715612
+Tempo distribuido: 0.282618
+Tempo sequencial: 0.764788
+Tempo distribuido: 0.412354
+Tempo sequencial: 0.613478
+Tempo distribuido: 0.28392
+
+Media Tempo sequencial: 0.704863
+
+Media Tempo distribuido: 0.343133
+
+Tamanho da matriz: 510
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.749609
+Tempo distribuido: 0.36139
+Tempo sequencial: 0.777714
+Tempo distribuido: 0.368247
+Tempo sequencial: 0.729901
+Tempo distribuido: 0.357414
+Tempo sequencial: 0.716936
+Tempo distribuido: 0.358367
+Tempo sequencial: 0.698609
+Tempo distribuido: 0.37004
+Tempo sequencial: 0.72354
+Tempo distribuido: 0.367997
+Tempo sequencial: 0.71483
+Tempo distribuido: 0.360613
+Tempo sequencial: 0.741869
+Tempo distribuido: 0.356396
+Tempo sequencial: 0.716565
+Tempo distribuido: 0.355204
+Tempo sequencial: 0.903049
+Tempo distribuido: 0.503921
+
+Media Tempo sequencial: 0.747262
+
+Media Tempo distribuido: 0.375959
+
+Tamanho da matriz: 520
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.733842
+Tempo distribuido: 0.540265
+Tempo sequencial: 0.990332
+Tempo distribuido: 0.589077
+Tempo sequencial: 1.08996
+Tempo distribuido: 0.351636
+Tempo sequencial: 0.582044
+Tempo distribuido: 0.303304
+Tempo sequencial: 0.564391
+Tempo distribuido: 0.301469
+Tempo sequencial: 0.718889
+Tempo distribuido: 0.305571
+Tempo sequencial: 0.568074
+Tempo distribuido: 0.336124
+Tempo sequencial: 0.864109
+Tempo distribuido: 0.457716
+Tempo sequencial: 0.599102
+Tempo distribuido: 0.299483
+Tempo sequencial: 0.666012
+Tempo distribuido: 0.29662
+
+Media Tempo sequencial: 0.737676
+
+Media Tempo distribuido: 0.378126
+
+Tamanho da matriz: 530
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.588588
+Tempo distribuido: 0.308403
+Tempo sequencial: 0.578662
+Tempo distribuido: 0.313318
+Tempo sequencial: 0.581247
+Tempo distribuido: 0.37701
+Tempo sequencial: 0.999638
+Tempo distribuido: 0.556746
+Tempo sequencial: 0.917348
+Tempo distribuido: 0.477685
+Tempo sequencial: 0.964799
+Tempo distribuido: 0.480969
+Tempo sequencial: 0.620658
+Tempo distribuido: 0.308451
+Tempo sequencial: 0.5721
+Tempo distribuido: 0.318421
+Tempo sequencial: 0.582686
+Tempo distribuido: 0.316471
+Tempo sequencial: 0.577009
+Tempo distribuido: 0.356012
+
+Media Tempo sequencial: 0.698274
+
+Media Tempo distribuido: 0.381349
+
+Tamanho da matriz: 540
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.968635
+Tempo distribuido: 0.700327
+Tempo sequencial: 1.01967
+Tempo distribuido: 0.505631
+Tempo sequencial: 0.935062
+Tempo distribuido: 0.561503
+Tempo sequencial: 1.09477
+Tempo distribuido: 0.53263
+Tempo sequencial: 0.891274
+Tempo distribuido: 0.344399
+Tempo sequencial: 0.646853
+Tempo distribuido: 0.324635
+Tempo sequencial: 0.625253
+Tempo distribuido: 0.316147
+Tempo sequencial: 0.761731
+Tempo distribuido: 0.528513
+Tempo sequencial: 1.03417
+Tempo distribuido: 0.604769
+Tempo sequencial: 1.00416
+Tempo distribuido: 0.358557
+
+Media Tempo sequencial: 0.898158
+
+Media Tempo distribuido: 0.477711
+
+Tamanho da matriz: 550
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.986113
+Tempo distribuido: 0.530193
+Tempo sequencial: 1.02782
+Tempo distribuido: 0.5398
+Tempo sequencial: 0.931071
+Tempo distribuido: 0.456202
+Tempo sequencial: 0.951353
+Tempo distribuido: 0.505489
+Tempo sequencial: 0.886661
+Tempo distribuido: 0.532702
+Tempo sequencial: 0.826003
+Tempo distribuido: 0.508426
+Tempo sequencial: 0.883291
+Tempo distribuido: 0.542632
+Tempo sequencial: 0.902746
+Tempo distribuido: 0.515355
+Tempo sequencial: 0.905395
+Tempo distribuido: 0.702935
+Tempo sequencial: 1.22838
+Tempo distribuido: 0.594701
+
+Media Tempo sequencial: 0.952884
+
+Media Tempo distribuido: 0.542844
+
+Tamanho da matriz: 560
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.894625
+Tempo distribuido: 0.365061
+Tempo sequencial: 0.71811
+Tempo distribuido: 0.376862
+Tempo sequencial: 0.720154
+Tempo distribuido: 0.36871
+Tempo sequencial: 0.738986
+Tempo distribuido: 0.346091
+Tempo sequencial: 0.727871
+Tempo distribuido: 0.36806
+Tempo sequencial: 0.711999
+Tempo distribuido: 0.362742
+Tempo sequencial: 0.708796
+Tempo distribuido: 0.369106
+Tempo sequencial: 1.02826
+Tempo distribuido: 0.612401
+Tempo sequencial: 1.22339
+Tempo distribuido: 0.570992
+Tempo sequencial: 0.958824
+Tempo distribuido: 0.540754
+
+Media Tempo sequencial: 0.843102
+
+Media Tempo distribuido: 0.428078
+
+Tamanho da matriz: 570
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.25414
+Tempo distribuido: 0.773457
+Tempo sequencial: 1.32645
+Tempo distribuido: 0.582055
+Tempo sequencial: 0.791922
+Tempo distribuido: 0.776206
+Tempo sequencial: 1.35575
+Tempo distribuido: 0.566253
+Tempo sequencial: 1.22453
+Tempo distribuido: 0.618089
+Tempo sequencial: 1.31993
+Tempo distribuido: 0.831819
+Tempo sequencial: 1.45515
+Tempo distribuido: 0.603124
+Tempo sequencial: 1.31315
+Tempo distribuido: 0.683263
+Tempo sequencial: 1.14644
+Tempo distribuido: 0.743833
+Tempo sequencial: 1.13754
+Tempo distribuido: 0.731053
+
+Media Tempo sequencial: 1.2325
+
+Media Tempo distribuido: 0.690915
+
+Tamanho da matriz: 580
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.21776
+Tempo distribuido: 0.640285
+Tempo sequencial: 1.26656
+Tempo distribuido: 0.568343
+Tempo sequencial: 1.58531
+Tempo distribuido: 0.488964
+Tempo sequencial: 1.15672
+Tempo distribuido: 0.803772
+Tempo sequencial: 1.53421
+Tempo distribuido: 0.790339
+Tempo sequencial: 1.72862
+Tempo distribuido: 0.785669
+Tempo sequencial: 1.01856
+Tempo distribuido: 0.411357
+Tempo sequencial: 1.24984
+Tempo distribuido: 0.810769
+Tempo sequencial: 1.32146
+Tempo distribuido: 0.422285
+Tempo sequencial: 1.6355
+Tempo distribuido: 0.565066
+
+Media Tempo sequencial: 1.37146
+
+Media Tempo distribuido: 0.628685
+
+Tamanho da matriz: 590
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.02147
+Tempo distribuido: 0.622607
+Tempo sequencial: 1.13
+Tempo distribuido: 0.731634
+Tempo sequencial: 1.3415
+Tempo distribuido: 0.806328
+Tempo sequencial: 1.0248
+Tempo distribuido: 0.670452
+Tempo sequencial: 1.33177
+Tempo distribuido: 0.765229
+Tempo sequencial: 1.14124
+Tempo distribuido: 0.697499
+Tempo sequencial: 1.16987
+Tempo distribuido: 0.540135
+Tempo sequencial: 0.922418
+Tempo distribuido: 0.872753
+Tempo sequencial: 1.08437
+Tempo distribuido: 0.808787
+Tempo sequencial: 1.08092
+Tempo distribuido: 0.475511
+
+Media Tempo sequencial: 1.12484
+
+Media Tempo distribuido: 0.699094
+
+Tamanho da matriz: 600
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.537
+Tempo distribuido: 0.631024
+Tempo sequencial: 1.06927
+Tempo distribuido: 0.712133
+Tempo sequencial: 1.24716
+Tempo distribuido: 0.541902
+Tempo sequencial: 1.40577
+Tempo distribuido: 0.699974
+Tempo sequencial: 1.43459
+Tempo distribuido: 0.635106
+Tempo sequencial: 1.3759
+Tempo distribuido: 0.734553
+Tempo sequencial: 0.930767
+Tempo distribuido: 0.783941
+Tempo sequencial: 1.53401
+Tempo distribuido: 0.745007
+Tempo sequencial: 1.20543
+Tempo distribuido: 0.453769
+Tempo sequencial: 1.58075
+Tempo distribuido: 0.725522
+
+Media Tempo sequencial: 1.33207
+
+Media Tempo distribuido: 0.666293
+
+Tamanho da matriz: 610
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 0.936765
+Tempo distribuido: 0.669876
+Tempo sequencial: 1.49122
+Tempo distribuido: 0.741527
+Tempo sequencial: 1.54947
+Tempo distribuido: 0.524493
+Tempo sequencial: 0.915044
+Tempo distribuido: 0.464206
+Tempo sequencial: 0.90907
+Tempo distribuido: 0.460084
+Tempo sequencial: 0.903772
+Tempo distribuido: 0.463939
+Tempo sequencial: 0.978167
+Tempo distribuido: 0.578236
+Tempo sequencial: 1.39371
+Tempo distribuido: 0.690961
+Tempo sequencial: 1.2707
+Tempo distribuido: 0.540021
+Tempo sequencial: 0.921911
+Tempo distribuido: 0.632515
+
+Media Tempo sequencial: 1.12698
+
+Media Tempo distribuido: 0.576586
+
+Tamanho da matriz: 620
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.77563
+Tempo distribuido: 0.816519
+Tempo sequencial: 1.2632
+Tempo distribuido: 0.548483
+Tempo sequencial: 1.03042
+Tempo distribuido: 0.49874
+Tempo sequencial: 1.04053
+Tempo distribuido: 0.494022
+Tempo sequencial: 1.66736
+Tempo distribuido: 0.801324
+Tempo sequencial: 1.56993
+Tempo distribuido: 0.855158
+Tempo sequencial: 1.08616
+Tempo distribuido: 0.688365
+Tempo sequencial: 1.62506
+Tempo distribuido: 0.679375
+Tempo sequencial: 1.33664
+Tempo distribuido: 0.535788
+Tempo sequencial: 1.85059
+Tempo distribuido: 0.53171
+
+Media Tempo sequencial: 1.42455
+
+Media Tempo distribuido: 0.644948
+
+Tamanho da matriz: 630
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.14211
+Tempo distribuido: 0.967593
+Tempo sequencial: 1.21605
+Tempo distribuido: 0.789189
+Tempo sequencial: 1.24914
+Tempo distribuido: 0.665922
+Tempo sequencial: 1.58958
+Tempo distribuido: 0.6575
+Tempo sequencial: 1.61952
+Tempo distribuido: 0.817313
+Tempo sequencial: 1.41366
+Tempo distribuido: 0.756449
+Tempo sequencial: 1.40155
+Tempo distribuido: 0.860631
+Tempo sequencial: 1.65124
+Tempo distribuido: 0.975649
+Tempo sequencial: 1.77553
+Tempo distribuido: 0.839788
+Tempo sequencial: 1.53154
+Tempo distribuido: 0.799965
+
+Media Tempo sequencial: 1.45899
+
+Media Tempo distribuido: 0.813
+
+Tamanho da matriz: 640
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.6672
+Tempo distribuido: 0.711394
+Tempo sequencial: 1.86323
+Tempo distribuido: 0.910739
+Tempo sequencial: 1.7006
+Tempo distribuido: 0.92373
+Tempo sequencial: 1.24623
+Tempo distribuido: 0.567292
+Tempo sequencial: 1.11119
+Tempo distribuido: 0.566027
+Tempo sequencial: 1.13427
+Tempo distribuido: 0.678828
+Tempo sequencial: 1.71278
+Tempo distribuido: 1.00099
+Tempo sequencial: 1.87488
+Tempo distribuido: 0.914508
+Tempo sequencial: 1.60346
+Tempo distribuido: 0.875047
+Tempo sequencial: 1.75248
+Tempo distribuido: 0.761251
+
+Media Tempo sequencial: 1.56663
+
+Media Tempo distribuido: 0.790981
+
+Tamanho da matriz: 650
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.30554
+Tempo distribuido: 0.867136
+Tempo sequencial: 1.78077
+Tempo distribuido: 0.767528
+Tempo sequencial: 2.06276
+Tempo distribuido: 1.27476
+Tempo sequencial: 1.82753
+Tempo distribuido: 0.85342
+Tempo sequencial: 2.02237
+Tempo distribuido: 0.931578
+Tempo sequencial: 1.63919
+Tempo distribuido: 0.968937
+Tempo sequencial: 1.89605
+Tempo distribuido: 1.06483
+Tempo sequencial: 1.52532
+Tempo distribuido: 1.06586
+Tempo sequencial: 2.0134
+Tempo distribuido: 0.920684
+Tempo sequencial: 2.04449
+Tempo distribuido: 1.02517
+
+Media Tempo sequencial: 1.81174
+
+Media Tempo distribuido: 0.97399
+
+Tamanho da matriz: 660
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.14054
+Tempo distribuido: 1.27796
+Tempo sequencial: 2.01778
+Tempo distribuido: 1.17498
+Tempo sequencial: 2.6794
+Tempo distribuido: 1.21527
+Tempo sequencial: 2.35771
+Tempo distribuido: 1.01973
+Tempo sequencial: 2.04857
+Tempo distribuido: 0.879169
+Tempo sequencial: 2.19039
+Tempo distribuido: 1.13167
+Tempo sequencial: 1.96817
+Tempo distribuido: 0.927787
+Tempo sequencial: 2.00981
+Tempo distribuido: 1.13694
+Tempo sequencial: 2.03964
+Tempo distribuido: 0.994738
+Tempo sequencial: 1.73332
+Tempo distribuido: 0.758001
+
+Media Tempo sequencial: 2.11853
+
+Media Tempo distribuido: 1.05162
+
+Tamanho da matriz: 670
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 1.95243
+Tempo distribuido: 0.99304
+Tempo sequencial: 1.74559
+Tempo distribuido: 1.0994
+Tempo sequencial: 2.39599
+Tempo distribuido: 1.2076
+Tempo sequencial: 1.98572
+Tempo distribuido: 0.962345
+Tempo sequencial: 1.91097
+Tempo distribuido: 1.15116
+Tempo sequencial: 2.06112
+Tempo distribuido: 1.42721
+Tempo sequencial: 2.07278
+Tempo distribuido: 1.61953
+Tempo sequencial: 2.14135
+Tempo distribuido: 1.15233
+Tempo sequencial: 2.17224
+Tempo distribuido: 1.03256
+Tempo sequencial: 2.05221
+Tempo distribuido: 1.09359
+
+Media Tempo sequencial: 2.04904
+
+Media Tempo distribuido: 1.17388
+
+Tamanho da matriz: 680
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.47086
+Tempo distribuido: 1.25419
+Tempo sequencial: 1.68505
+Tempo distribuido: 0.961968
+Tempo sequencial: 2.66297
+Tempo distribuido: 1.02292
+Tempo sequencial: 2.46104
+Tempo distribuido: 0.916498
+Tempo sequencial: 2.00622
+Tempo distribuido: 1.14195
+Tempo sequencial: 2.44913
+Tempo distribuido: 1.04543
+Tempo sequencial: 2.13087
+Tempo distribuido: 0.705152
+Tempo sequencial: 1.90737
+Tempo distribuido: 1.4382
+Tempo sequencial: 2.68685
+Tempo distribuido: 1.29004
+Tempo sequencial: 1.85813
+Tempo distribuido: 1.23416
+
+Media Tempo sequencial: 2.23185
+
+Media Tempo distribuido: 1.10105
+
+Tamanho da matriz: 690
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.00176
+Tempo distribuido: 1.30744
+Tempo sequencial: 1.90183
+Tempo distribuido: 1.00728
+Tempo sequencial: 2.08127
+Tempo distribuido: 1.08925
+Tempo sequencial: 2.28332
+Tempo distribuido: 1.14029
+Tempo sequencial: 2.25854
+Tempo distribuido: 1.14967
+Tempo sequencial: 1.83929
+Tempo distribuido: 0.98604
+Tempo sequencial: 2.27814
+Tempo distribuido: 1.11314
+Tempo sequencial: 2.03261
+Tempo distribuido: 1.10329
+Tempo sequencial: 2.00109
+Tempo distribuido: 1.1794
+Tempo sequencial: 1.46147
+Tempo distribuido: 1.1682
+
+Media Tempo sequencial: 2.01393
+
+Media Tempo distribuido: 1.1244
+
+Tamanho da matriz: 700
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.25397
+Tempo distribuido: 0.921884
+Tempo sequencial: 2.48868
+Tempo distribuido: 1.1674
+Tempo sequencial: 2.59359
+Tempo distribuido: 1.31851
+Tempo sequencial: 2.42424
+Tempo distribuido: 1.00794
+Tempo sequencial: 2.70581
+Tempo distribuido: 1.50774
+Tempo sequencial: 2.80875
+Tempo distribuido: 1.02986
+Tempo sequencial: 2.89703
+Tempo distribuido: 1.76623
+Tempo sequencial: 3.14632
+Tempo distribuido: 1.41887
+Tempo sequencial: 2.40011
+Tempo distribuido: 1.65344
+Tempo sequencial: 2.76774
+Tempo distribuido: 1.4358
+
+Media Tempo sequencial: 2.64862
+
+Media Tempo distribuido: 1.32277
+
+Tamanho da matriz: 710
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.33399
+Tempo distribuido: 1.27304
+Tempo sequencial: 2.57669
+Tempo distribuido: 1.29325
+Tempo sequencial: 2.99525
+Tempo distribuido: 1.99686
+Tempo sequencial: 2.98403
+Tempo distribuido: 1.54305
+Tempo sequencial: 1.78605
+Tempo distribuido: 1.49745
+Tempo sequencial: 2.07137
+Tempo distribuido: 1.12922
+Tempo sequencial: 2.27035
+Tempo distribuido: 1.30296
+Tempo sequencial: 2.13358
+Tempo distribuido: 0.933613
+Tempo sequencial: 2.16579
+Tempo distribuido: 1.17982
+Tempo sequencial: 1.91789
+Tempo distribuido: 1.09392
+
+Media Tempo sequencial: 2.3235
+
+Media Tempo distribuido: 1.32432
+
+Tamanho da matriz: 720
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.14196
+Tempo distribuido: 1.74227
+Tempo sequencial: 3.16895
+Tempo distribuido: 1.61634
+Tempo sequencial: 2.87367
+Tempo distribuido: 1.46131
+Tempo sequencial: 2.46099
+Tempo distribuido: 1.27595
+Tempo sequencial: 2.56633
+Tempo distribuido: 1.40557
+Tempo sequencial: 2.24854
+Tempo distribuido: 1.41034
+Tempo sequencial: 2.76198
+Tempo distribuido: 1.20491
+Tempo sequencial: 2.88931
+Tempo distribuido: 1.56058
+Tempo sequencial: 3.00371
+Tempo distribuido: 1.5495
+Tempo sequencial: 2.64596
+Tempo distribuido: 0.885999
+
+Media Tempo sequencial: 2.67614
+
+Media Tempo distribuido: 1.41128
+
+Tamanho da matriz: 730
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.1546
+Tempo distribuido: 1.33892
+Tempo sequencial: 2.66557
+Tempo distribuido: 1.40071
+Tempo sequencial: 2.98884
+Tempo distribuido: 1.40339
+Tempo sequencial: 2.3044
+Tempo distribuido: 0.890997
+Tempo sequencial: 2.10299
+Tempo distribuido: 1.51444
+Tempo sequencial: 2.43444
+Tempo distribuido: 1.33242
+Tempo sequencial: 1.70175
+Tempo distribuido: 0.875185
+Tempo sequencial: 2.29391
+Tempo distribuido: 1.53677
+Tempo sequencial: 2.36718
+Tempo distribuido: 1.14308
+Tempo sequencial: 2.77827
+Tempo distribuido: 1.197
+
+Media Tempo sequencial: 2.3792
+
+Media Tempo distribuido: 1.26329
+
+Tamanho da matriz: 740
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.03003
+Tempo distribuido: 1.54118
+Tempo sequencial: 3.28531
+Tempo distribuido: 1.58736
+Tempo sequencial: 2.76013
+Tempo distribuido: 1.10263
+Tempo sequencial: 2.29426
+Tempo distribuido: 1.70154
+Tempo sequencial: 3.0544
+Tempo distribuido: 1.459
+Tempo sequencial: 3.09542
+Tempo distribuido: 1.6586
+Tempo sequencial: 3.22346
+Tempo distribuido: 1.41786
+Tempo sequencial: 3.06158
+Tempo distribuido: 1.63832
+Tempo sequencial: 2.97125
+Tempo distribuido: 1.56936
+Tempo sequencial: 3.13894
+Tempo distribuido: 1.50332
+
+Media Tempo sequencial: 2.99148
+
+Media Tempo distribuido: 1.51792
+
+Tamanho da matriz: 750
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.00861
+Tempo distribuido: 1.6013
+Tempo sequencial: 2.8937
+Tempo distribuido: 1.73418
+Tempo sequencial: 2.70427
+Tempo distribuido: 1.0876
+Tempo sequencial: 2.66236
+Tempo distribuido: 1.47839
+Tempo sequencial: 2.66522
+Tempo distribuido: 1.49327
+Tempo sequencial: 2.6614
+Tempo distribuido: 1.90503
+Tempo sequencial: 2.8971
+Tempo distribuido: 1.55764
+Tempo sequencial: 2.62827
+Tempo distribuido: 1.20155
+Tempo sequencial: 2.8532
+Tempo distribuido: 1.90467
+Tempo sequencial: 2.65815
+Tempo distribuido: 1.48145
+
+Media Tempo sequencial: 2.76323
+
+Media Tempo distribuido: 1.54451
+
+Tamanho da matriz: 760
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.90476
+Tempo distribuido: 1.42798
+Tempo sequencial: 3.46464
+Tempo distribuido: 2.05916
+Tempo sequencial: 3.5245
+Tempo distribuido: 1.56852
+Tempo sequencial: 3.47131
+Tempo distribuido: 1.56269
+Tempo sequencial: 3.37451
+Tempo distribuido: 1.37232
+Tempo sequencial: 2.69764
+Tempo distribuido: 1.31975
+Tempo sequencial: 2.28341
+Tempo distribuido: 1.44916
+Tempo sequencial: 2.7778
+Tempo distribuido: 1.58481
+Tempo sequencial: 3.29987
+Tempo distribuido: 1.49529
+Tempo sequencial: 3.37594
+Tempo distribuido: 1.87065
+
+Media Tempo sequencial: 3.11744
+
+Media Tempo distribuido: 1.57103
+
+Tamanho da matriz: 770
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.24015
+Tempo distribuido: 1.24172
+Tempo sequencial: 2.56514
+Tempo distribuido: 1.62482
+Tempo sequencial: 2.35406
+Tempo distribuido: 1.49868
+Tempo sequencial: 3.14787
+Tempo distribuido: 1.17796
+Tempo sequencial: 2.39501
+Tempo distribuido: 1.08631
+Tempo sequencial: 2.04661
+Tempo distribuido: 1.19153
+Tempo sequencial: 2.87616
+Tempo distribuido: 1.65793
+Tempo sequencial: 3.08899
+Tempo distribuido: 1.4915
+Tempo sequencial: 3.02716
+Tempo distribuido: 1.48236
+Tempo sequencial: 2.46384
+Tempo distribuido: 1.7117
+
+Media Tempo sequencial: 2.7205
+
+Media Tempo distribuido: 1.41645
+
+Tamanho da matriz: 780
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.70156
+Tempo distribuido: 1.69287
+Tempo sequencial: 3.68651
+Tempo distribuido: 1.62152
+Tempo sequencial: 3.3433
+Tempo distribuido: 1.82929
+Tempo sequencial: 3.75008
+Tempo distribuido: 1.64549
+Tempo sequencial: 3.72706
+Tempo distribuido: 2.03494
+Tempo sequencial: 4.118
+Tempo distribuido: 2.10535
+Tempo sequencial: 3.21764
+Tempo distribuido: 2.06721
+Tempo sequencial: 3.59011
+Tempo distribuido: 1.43558
+Tempo sequencial: 2.57171
+Tempo distribuido: 1.37246
+Tempo sequencial: 4.04537
+Tempo distribuido: 1.86695
+
+Media Tempo sequencial: 3.57514
+
+Media Tempo distribuido: 1.76717
+
+Tamanho da matriz: 790
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.16751
+Tempo distribuido: 1.97743
+Tempo sequencial: 3.52508
+Tempo distribuido: 1.97785
+Tempo sequencial: 2.93761
+Tempo distribuido: 1.41953
+Tempo sequencial: 2.46277
+Tempo distribuido: 1.28318
+Tempo sequencial: 3.06091
+Tempo distribuido: 1.4
+Tempo sequencial: 2.82218
+Tempo distribuido: 2.15264
+Tempo sequencial: 2.65575
+Tempo distribuido: 1.69172
+Tempo sequencial: 3.18837
+Tempo distribuido: 1.92757
+Tempo sequencial: 2.98432
+Tempo distribuido: 1.79932
+Tempo sequencial: 3.12178
+Tempo distribuido: 1.86057
+
+Media Tempo sequencial: 2.99263
+
+Media Tempo distribuido: 1.74898
+
+Tamanho da matriz: 800
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.87311
+Tempo distribuido: 1.89098
+Tempo sequencial: 4.00327
+Tempo distribuido: 2.32733
+Tempo sequencial: 4.12311
+Tempo distribuido: 1.86262
+Tempo sequencial: 4.07204
+Tempo distribuido: 1.79206
+Tempo sequencial: 4.224
+Tempo distribuido: 2.12636
+Tempo sequencial: 4.05056
+Tempo distribuido: 1.84823
+Tempo sequencial: 3.66531
+Tempo distribuido: 1.67779
+Tempo sequencial: 4.0148
+Tempo distribuido: 1.51088
+Tempo sequencial: 3.95879
+Tempo distribuido: 1.98983
+Tempo sequencial: 4.68863
+Tempo distribuido: 2.15839
+
+Media Tempo sequencial: 4.06736
+
+Media Tempo distribuido: 1.91845
+
+Tamanho da matriz: 810
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.68703
+Tempo distribuido: 2.95009
+Tempo sequencial: 3.74623
+Tempo distribuido: 2.36779
+Tempo sequencial: 3.82346
+Tempo distribuido: 2.04933
+Tempo sequencial: 3.89206
+Tempo distribuido: 2.00084
+Tempo sequencial: 3.24403
+Tempo distribuido: 2.92728
+Tempo sequencial: 3.52242
+Tempo distribuido: 1.84724
+Tempo sequencial: 3.79905
+Tempo distribuido: 2.30434
+Tempo sequencial: 4.23706
+Tempo distribuido: 1.80773
+Tempo sequencial: 3.41703
+Tempo distribuido: 2.3045
+Tempo sequencial: 3.05982
+Tempo distribuido: 1.24148
+
+Media Tempo sequencial: 3.74282
+
+Media Tempo distribuido: 2.18006
+
+Tamanho da matriz: 820
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.37972
+Tempo distribuido: 1.79848
+Tempo sequencial: 2.81561
+Tempo distribuido: 1.44774
+Tempo sequencial: 3.88822
+Tempo distribuido: 1.35449
+Tempo sequencial: 3.29491
+Tempo distribuido: 1.98927
+Tempo sequencial: 3.1776
+Tempo distribuido: 1.94579
+Tempo sequencial: 4.15412
+Tempo distribuido: 1.98387
+Tempo sequencial: 3.87906
+Tempo distribuido: 2.30935
+Tempo sequencial: 4.0089
+Tempo distribuido: 1.9621
+Tempo sequencial: 4.34479
+Tempo distribuido: 1.97592
+Tempo sequencial: 4.47068
+Tempo distribuido: 2.14494
+
+Media Tempo sequencial: 3.74136
+
+Media Tempo distribuido: 1.89119
+
+Tamanho da matriz: 830
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.43427
+Tempo distribuido: 2.58079
+Tempo sequencial: 4.35558
+Tempo distribuido: 2.68586
+Tempo sequencial: 3.7753
+Tempo distribuido: 2.46608
+Tempo sequencial: 3.9804
+Tempo distribuido: 2.47858
+Tempo sequencial: 4.48324
+Tempo distribuido: 2.58627
+Tempo sequencial: 4.83521
+Tempo distribuido: 2.70678
+Tempo sequencial: 4.04874
+Tempo distribuido: 2.83505
+Tempo sequencial: 4.50336
+Tempo distribuido: 2.50345
+Tempo sequencial: 3.55466
+Tempo distribuido: 2.10123
+Tempo sequencial: 3.51522
+Tempo distribuido: 1.71124
+
+Media Tempo sequencial: 4.1486
+
+Media Tempo distribuido: 2.46553
+
+Tamanho da matriz: 840
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.19117
+Tempo distribuido: 2.20273
+Tempo sequencial: 3.72248
+Tempo distribuido: 1.87242
+Tempo sequencial: 3.99517
+Tempo distribuido: 2.18453
+Tempo sequencial: 4.19452
+Tempo distribuido: 1.64373
+Tempo sequencial: 4.50215
+Tempo distribuido: 1.82314
+Tempo sequencial: 3.80539
+Tempo distribuido: 1.79109
+Tempo sequencial: 4.06962
+Tempo distribuido: 1.86725
+Tempo sequencial: 3.92404
+Tempo distribuido: 1.94778
+Tempo sequencial: 3.48645
+Tempo distribuido: 1.59548
+Tempo sequencial: 3.20336
+Tempo distribuido: 1.73163
+
+Media Tempo sequencial: 3.90944
+
+Media Tempo distribuido: 1.86598
+
+Tamanho da matriz: 850
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.99035
+Tempo distribuido: 1.90865
+Tempo sequencial: 2.7902
+Tempo distribuido: 1.47699
+Tempo sequencial: 2.79202
+Tempo distribuido: 1.47259
+Tempo sequencial: 3.41551
+Tempo distribuido: 1.53902
+Tempo sequencial: 3.42945
+Tempo distribuido: 2.38809
+Tempo sequencial: 3.79077
+Tempo distribuido: 1.61688
+Tempo sequencial: 4.0233
+Tempo distribuido: 1.64345
+Tempo sequencial: 2.82119
+Tempo distribuido: 1.48404
+Tempo sequencial: 2.84309
+Tempo distribuido: 1.47984
+Tempo sequencial: 2.80461
+Tempo distribuido: 1.47424
+
+Media Tempo sequencial: 3.27005
+
+Media Tempo distribuido: 1.64838
+
+Tamanho da matriz: 860
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.34311
+Tempo distribuido: 1.56031
+Tempo sequencial: 3.38289
+Tempo distribuido: 1.59127
+Tempo sequencial: 3.3831
+Tempo distribuido: 1.52809
+Tempo sequencial: 3.35418
+Tempo distribuido: 1.59397
+Tempo sequencial: 3.8275
+Tempo distribuido: 1.55526
+Tempo sequencial: 3.39671
+Tempo distribuido: 1.54476
+Tempo sequencial: 4.14899
+Tempo distribuido: 1.85409
+Tempo sequencial: 3.91358
+Tempo distribuido: 1.61217
+Tempo sequencial: 3.49017
+Tempo distribuido: 1.61542
+Tempo sequencial: 3.53196
+Tempo distribuido: 2.00928
+
+Media Tempo sequencial: 3.57722
+
+Media Tempo distribuido: 1.64646
+
+Tamanho da matriz: 870
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 2.96502
+Tempo distribuido: 1.65265
+Tempo sequencial: 3.31167
+Tempo distribuido: 1.72318
+Tempo sequencial: 3.08872
+Tempo distribuido: 2.01022
+Tempo sequencial: 3.14427
+Tempo distribuido: 1.63454
+Tempo sequencial: 2.84863
+Tempo distribuido: 1.73095
+Tempo sequencial: 3.19006
+Tempo distribuido: 1.67168
+Tempo sequencial: 3.21114
+Tempo distribuido: 1.95523
+Tempo sequencial: 2.91334
+Tempo distribuido: 1.77942
+Tempo sequencial: 2.96017
+Tempo distribuido: 1.878
+Tempo sequencial: 2.83029
+Tempo distribuido: 1.63202
+
+Media Tempo sequencial: 3.04633
+
+Media Tempo distribuido: 1.76679
+
+Tamanho da matriz: 880
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.65066
+Tempo distribuido: 1.69284
+Tempo sequencial: 3.6441
+Tempo distribuido: 1.70174
+Tempo sequencial: 3.6349
+Tempo distribuido: 1.73874
+Tempo sequencial: 3.55008
+Tempo distribuido: 1.66318
+Tempo sequencial: 3.66057
+Tempo distribuido: 1.69422
+Tempo sequencial: 3.72226
+Tempo distribuido: 1.94713
+Tempo sequencial: 4.1415
+Tempo distribuido: 1.83433
+Tempo sequencial: 3.8042
+Tempo distribuido: 1.86873
+Tempo sequencial: 4.15611
+Tempo distribuido: 1.74661
+Tempo sequencial: 4.19483
+Tempo distribuido: 1.79388
+
+Media Tempo sequencial: 3.81592
+
+Media Tempo distribuido: 1.76814
+
+Tamanho da matriz: 890
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.49218
+Tempo distribuido: 1.86368
+Tempo sequencial: 3.43179
+Tempo distribuido: 1.83355
+Tempo sequencial: 3.75571
+Tempo distribuido: 1.99852
+Tempo sequencial: 3.45975
+Tempo distribuido: 1.85418
+Tempo sequencial: 3.41669
+Tempo distribuido: 1.82705
+Tempo sequencial: 3.45446
+Tempo distribuido: 1.80599
+Tempo sequencial: 3.46662
+Tempo distribuido: 1.85563
+Tempo sequencial: 3.86328
+Tempo distribuido: 1.87686
+Tempo sequencial: 3.35369
+Tempo distribuido: 1.75225
+Tempo sequencial: 3.24149
+Tempo distribuido: 1.79832
+
+Media Tempo sequencial: 3.49357
+
+Media Tempo distribuido: 1.8466
+
+Tamanho da matriz: 900
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.99293
+Tempo distribuido: 1.83343
+Tempo sequencial: 3.95695
+Tempo distribuido: 1.83293
+Tempo sequencial: 3.93616
+Tempo distribuido: 1.87545
+Tempo sequencial: 3.93445
+Tempo distribuido: 1.86194
+Tempo sequencial: 4.43571
+Tempo distribuido: 2.3856
+Tempo sequencial: 4.111
+Tempo distribuido: 1.97796
+Tempo sequencial: 4.18852
+Tempo distribuido: 2.48881
+Tempo sequencial: 5.17023
+Tempo distribuido: 2.59939
+Tempo sequencial: 5.73575
+Tempo distribuido: 2.33369
+Tempo sequencial: 5.3677
+Tempo distribuido: 2.30147
+
+Media Tempo sequencial: 4.48294
+
+Media Tempo distribuido: 2.14907
+
+Tamanho da matriz: 910
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.18373
+Tempo distribuido: 3.13402
+Tempo sequencial: 4.77484
+Tempo distribuido: 2.73936
+Tempo sequencial: 4.41171
+Tempo distribuido: 2.10663
+Tempo sequencial: 4.32772
+Tempo distribuido: 3.08141
+Tempo sequencial: 4.45065
+Tempo distribuido: 3.07556
+Tempo sequencial: 4.63372
+Tempo distribuido: 3.10175
+Tempo sequencial: 4.09394
+Tempo distribuido: 2.51766
+Tempo sequencial: 4.17916
+Tempo distribuido: 2.34144
+Tempo sequencial: 3.7886
+Tempo distribuido: 2.16061
+Tempo sequencial: 3.77027
+Tempo distribuido: 1.9968
+
+Media Tempo sequencial: 4.26143
+
+Media Tempo distribuido: 2.62552
+
+Tamanho da matriz: 920
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.26617
+Tempo distribuido: 2.03948
+Tempo sequencial: 4.28097
+Tempo distribuido: 2.01097
+Tempo sequencial: 4.34557
+Tempo distribuido: 2.06237
+Tempo sequencial: 4.18708
+Tempo distribuido: 2.0078
+Tempo sequencial: 4.2431
+Tempo distribuido: 2.0245
+Tempo sequencial: 4.2353
+Tempo distribuido: 1.99433
+Tempo sequencial: 4.22932
+Tempo distribuido: 2.05235
+Tempo sequencial: 4.22171
+Tempo distribuido: 2.06413
+Tempo sequencial: 4.41833
+Tempo distribuido: 2.24617
+Tempo sequencial: 4.86448
+Tempo distribuido: 2.11062
+
+Media Tempo sequencial: 4.3292
+
+Media Tempo distribuido: 2.06127
+
+Tamanho da matriz: 930
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.03216
+Tempo distribuido: 2.19204
+Tempo sequencial: 3.92375
+Tempo distribuido: 2.12937
+Tempo sequencial: 4.27776
+Tempo distribuido: 2.18664
+Tempo sequencial: 4.07094
+Tempo distribuido: 2.12558
+Tempo sequencial: 3.96729
+Tempo distribuido: 2.45386
+Tempo sequencial: 4.01589
+Tempo distribuido: 2.0985
+Tempo sequencial: 3.79387
+Tempo distribuido: 2.09073
+Tempo sequencial: 3.85605
+Tempo distribuido: 2.09411
+Tempo sequencial: 3.81172
+Tempo distribuido: 2.19399
+Tempo sequencial: 4.09297
+Tempo distribuido: 2.1223
+
+Media Tempo sequencial: 3.98424
+
+Media Tempo distribuido: 2.16871
+
+Tamanho da matriz: 940
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.70131
+Tempo distribuido: 2.13188
+Tempo sequencial: 4.77029
+Tempo distribuido: 2.1328
+Tempo sequencial: 4.65023
+Tempo distribuido: 2.21446
+Tempo sequencial: 5.22117
+Tempo distribuido: 3.49152
+Tempo sequencial: 5.99241
+Tempo distribuido: 2.96233
+Tempo sequencial: 5.56743
+Tempo distribuido: 2.26689
+Tempo sequencial: 5.11703
+Tempo distribuido: 2.23101
+Tempo sequencial: 5.04705
+Tempo distribuido: 2.52015
+Tempo sequencial: 4.70935
+Tempo distribuido: 2.20467
+Tempo sequencial: 5.41742
+Tempo distribuido: 2.29726
+
+Media Tempo sequencial: 5.11937
+
+Media Tempo distribuido: 2.4453
+
+Tamanho da matriz: 950
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 3.79649
+Tempo distribuido: 2.28001
+Tempo sequencial: 3.79601
+Tempo distribuido: 2.18391
+Tempo sequencial: 3.84158
+Tempo distribuido: 2.3529
+Tempo sequencial: 3.79766
+Tempo distribuido: 2.28333
+Tempo sequencial: 3.81843
+Tempo distribuido: 2.29378
+Tempo sequencial: 3.78026
+Tempo distribuido: 2.21789
+Tempo sequencial: 3.84605
+Tempo distribuido: 2.24712
+Tempo sequencial: 3.75001
+Tempo distribuido: 2.19975
+Tempo sequencial: 3.84369
+Tempo distribuido: 2.21454
+Tempo sequencial: 3.78293
+Tempo distribuido: 2.18655
+
+Media Tempo sequencial: 3.80531
+
+Media Tempo distribuido: 2.24598
+
+Tamanho da matriz: 960
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.84637
+Tempo distribuido: 2.36807
+Tempo sequencial: 4.856
+Tempo distribuido: 2.32702
+Tempo sequencial: 4.90576
+Tempo distribuido: 2.2656
+Tempo sequencial: 4.87999
+Tempo distribuido: 2.33134
+Tempo sequencial: 4.88239
+Tempo distribuido: 2.32278
+Tempo sequencial: 4.82677
+Tempo distribuido: 2.39206
+Tempo sequencial: 4.8641
+Tempo distribuido: 2.29052
+Tempo sequencial: 4.95883
+Tempo distribuido: 2.34893
+Tempo sequencial: 4.83746
+Tempo distribuido: 2.39078
+Tempo sequencial: 4.91422
+Tempo distribuido: 2.36846
+
+Media Tempo sequencial: 4.87719
+
+Media Tempo distribuido: 2.34056
+
+Tamanho da matriz: 970
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.41061
+Tempo distribuido: 2.3894
+Tempo sequencial: 4.40878
+Tempo distribuido: 2.3823
+Tempo sequencial: 4.38759
+Tempo distribuido: 2.40806
+Tempo sequencial: 4.46558
+Tempo distribuido: 2.36697
+Tempo sequencial: 4.41057
+Tempo distribuido: 2.41861
+Tempo sequencial: 4.40566
+Tempo distribuido: 2.33663
+Tempo sequencial: 4.33623
+Tempo distribuido: 2.3505
+Tempo sequencial: 4.55271
+Tempo distribuido: 2.34054
+Tempo sequencial: 4.35531
+Tempo distribuido: 2.3559
+Tempo sequencial: 4.39345
+Tempo distribuido: 2.52895
+
+Media Tempo sequencial: 4.41265
+
+Media Tempo distribuido: 2.38779
+
+Tamanho da matriz: 980
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 5.35616
+Tempo distribuido: 2.61724
+Tempo sequencial: 5.24418
+Tempo distribuido: 2.48321
+Tempo sequencial: 5.25915
+Tempo distribuido: 2.5369
+Tempo sequencial: 5.20669
+Tempo distribuido: 2.53675
+Tempo sequencial: 5.2338
+Tempo distribuido: 2.52473
+Tempo sequencial: 5.1859
+Tempo distribuido: 2.56234
+Tempo sequencial: 5.23469
+Tempo distribuido: 2.48099
+Tempo sequencial: 5.28341
+Tempo distribuido: 2.51784
+Tempo sequencial: 5.22696
+Tempo distribuido: 2.59103
+Tempo sequencial: 5.17122
+Tempo distribuido: 2.53905
+
+Media Tempo sequencial: 5.24022
+
+Media Tempo distribuido: 2.53901
+
+Tamanho da matriz: 990
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 4.91899
+Tempo distribuido: 2.77633
+Tempo sequencial: 4.94914
+Tempo distribuido: 2.72886
+Tempo sequencial: 4.9669
+Tempo distribuido: 2.77334
+Tempo sequencial: 4.95982
+Tempo distribuido: 2.80887
+Tempo sequencial: 4.97156
+Tempo distribuido: 2.7598
+Tempo sequencial: 4.96928
+Tempo distribuido: 2.82547
+Tempo sequencial: 4.95289
+Tempo distribuido: 2.77733
+Tempo sequencial: 4.81559
+Tempo distribuido: 2.73361
+Tempo sequencial: 4.87278
+Tempo distribuido: 2.8606
+Tempo sequencial: 4.99951
+Tempo distribuido: 2.821
+
+Media Tempo sequencial: 4.93765
+
+Media Tempo distribuido: 2.78652
+
+Tamanho da matriz: 1000
+Quantidade de threads disponíveis: 4
+Quantidade de processadores disponíveis: 4
+Tempo sequencial: 5.63991
+Tempo distribuido: 2.65349
+Tempo sequencial: 5.54568
+Tempo distribuido: 2.647
+Tempo sequencial: 5.69209
+Tempo distribuido: 2.6345
+Tempo sequencial: 5.56435
+Tempo distribuido: 2.752
+Tempo sequencial: 5.62208
+Tempo distribuido: 2.70108
+Tempo sequencial: 5.6081
+Tempo distribuido: 2.62598
+Tempo sequencial: 6.14958
+Tempo distribuido: 3.32714
+Tempo sequencial: 6.94474
+Tempo distribuido: 3.1566
+Tempo sequencial: 6.46356
+Tempo distribuido: 2.80577
+Tempo sequencial: 7.50482
+Tempo distribuido: 3.34842
+
+Media Tempo sequencial: 6.07349
+
+Media Tempo distribuido: 2.8652
+
